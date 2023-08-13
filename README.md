@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Secure Funding Platform**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Java, Javascript**
 
